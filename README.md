@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# immigration in the news
+# Immigration in the News
 
 *Final project*  
 *Imogen Rickert*
