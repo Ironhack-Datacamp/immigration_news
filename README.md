@@ -34,8 +34,8 @@ A few key questions guided my analysis:
 
 I suspected that both news and immigration had increased in recent years, and hypothesized that there would be a correlation between media coverage on migration and immigration numbers. 
 
+However, muliple (OLS) regressions indicated no statistically significant correlations between media coverage on migraiton and immigraiton numbers. This suggests that there may be other factors that have a stronger influence on the amount of news coverage, such as government policies or global events. 
 
-Policies and controversial events have a stronger influence on amount of news coverage than actual migration numbers. 
 
 ## Datasets
 I utilised two separate databanks for my analysis.
@@ -53,7 +53,7 @@ Link: https://data.gov.au/data/dataset/historical-migration-statistics
 
 ## Resources
 
-As NLP was not covered in the Ironhack bootcamp, I relied on free online resources to learn the basics. I found [this video] (https://www.youtube.com/watch?v=xvqsFTUsOmc&feature=youtu.be&ab_channel=PyOhio) and corresponding [Github repo](https://github.com/adashofdata/nlp-in-python-tutorial/blob/master/1-Data-Cleaning.ipynb) particularly helpful in getting started with NLP. 
+As NLP was not covered in the Ironhack bootcamp, I relied on free online resources to learn the basics. I found [this video](https://www.youtube.com/watch?v=xvqsFTUsOmc&feature=youtu.be&ab_channel=PyOhio) and corresponding [Github repo](https://github.com/adashofdata/nlp-in-python-tutorial/blob/master/1-Data-Cleaning.ipynb) particularly helpful in getting started with NLP. 
 
 ## Workflow
 
@@ -65,10 +65,11 @@ I utilised a kanban board on Trello to organise my work.
 
 This repository contains the following files:
 - Presentation
-- Datasets folders containing csv files
-- Jupyter notebooks folder
+- Notebooks: contains all jupyter notebook files
+- csv_files: contains all CSV files, original and cleaned/manipulated
 
 
 ## Links
 
 [Repository](https://github.com/imogen-rickert/immigration-news)  
+[Presentation](https://github.com/imogen-rickert/immigration_news/blob/main/presentation.pdf) 
