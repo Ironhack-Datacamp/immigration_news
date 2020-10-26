@@ -1,0 +1,241 @@
+country,sub-region,continent,2002–03,2003–04,2004–05,2005–06,2006–07,2007–08,2008–09,2009–10,2010–11,2011–12,2012–13,2013–14,2014–15,2015–16,2016–17
+Afghanistan,Central Asia,Asia,982.0,1253.0,1557.0,2567.0,2285.0,1785.0,1578.0,1495.0,1860.0,1385.0,1770.0,4252.0,2817.0,2672.0,2944.0
+Armenia,Central Asia,Asia,28.0,17.0,6.0,8.0,16.0,14.0,39.0,22.0,16.0,41.0,32.0,35.0,32.0,26.0,42.0
+Azerbaijan,Central Asia,Asia,5.0,13.0,15.0,13.0,11.0,11.0,22.0,25.0,20.0,24.0,39.0,25.0,28.0,18.0,19.0
+Georgia,Central Asia,Asia,11.0,5.0,8.0,5.0,13.0,10.0,20.0,29.0,14.0,23.0,26.0,29.0,26.0,18.0,16.0
+Kazakhstan,Central Asia,Asia,29.0,48.0,40.0,50.0,46.0,67.0,110.0,83.0,79.0,109.0,114.0,99.0,101.0,117.0,119.0
+Kyrgyzstan,Central Asia,Asia,23.0,29.0,25.0,24.0,20.0,26.0,27.0,25.0,24.0,13.0,30.0,26.0,20.0,27.0,33.0
+Tajikistan,Central Asia,Asia,5.0,5.0,5.0,5.0,5.0,5.0,5.0,9.0,7.0,9.0,12.0,7.0,5.0,5.0,5.0
+Turkmenistan,Central Asia,Asia,5.0,5.0,5.0,7.0,9.0,5.0,5.0,12.0,5.0,5.0,5.0,5.0,0.0,5.0,7.0
+Uzbekistan,Central Asia,Asia,11.0,35.0,36.0,88.0,55.0,57.0,77.0,70.0,70.0,88.0,91.0,70.0,80.0,75.0,70.0
+Algeria,North Africa & the Middle East,Africa,41.0,33.0,32.0,31.0,29.0,29.0,31.0,35.0,34.0,38.0,29.0,37.0,32.0,47.0,38.0
+Bahrain,North Africa & the Middle East,Asia,26.0,19.0,38.0,37.0,50.0,41.0,53.0,42.0,43.0,63.0,91.0,86.0,111.0,79.0,76.0
+Egypt,North Africa & the Middle East,Africa,646.0,819.0,957.0,913.0,871.0,757.0,895.0,960.0,918.0,961.0,1327.0,1292.0,1161.0,1170.0,1283.0
+Gaza Strip and West Bank,North Africa & the Middle East,Asia,9.0,22.0,14.0,6.0,16.0,7.0,10.0,8.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0
+Iran,North Africa & the Middle East,Asia,927.0,936.0,1071.0,1019.0,1292.0,1381.0,2295.0,2030.0,2792.0,3299.0,3410.0,3711.0,4263.0,3122.0,3253.0
+Iraq,North Africa & the Middle East,Asia,2866.0,1956.0,2001.0,2500.0,2391.0,2575.0,4155.0,2589.0,3009.0,2158.0,3360.0,4147.0,3250.0,3164.0,9771.0
+Israel,North Africa & the Middle East,Asia,372.0,438.0,510.0,444.0,471.0,422.0,465.0,449.0,337.0,320.0,434.0,357.0,313.0,289.0,330.0
+Jordan,North Africa & the Middle East,Asia,203.0,241.0,284.0,230.0,181.0,201.0,285.0,251.0,214.0,258.0,265.0,312.0,309.0,370.0,486.0
+Kuwait,North Africa & the Middle East,Asia,149.0,120.0,108.0,156.0,158.0,176.0,179.0,172.0,215.0,218.0,226.0,248.0,315.0,319.0,357.0
+Lebanon,North Africa & the Middle East,Asia,1822.0,1476.0,1579.0,1462.0,1527.0,1687.0,1435.0,1182.0,1075.0,1478.0,1052.0,1163.0,1226.0,1061.0,1377.0
+Libya,North Africa & the Middle East,Africa,21.0,30.0,24.0,28.0,32.0,32.0,42.0,41.0,29.0,66.0,46.0,50.0,51.0,58.0,66.0
+"Middle East, nfd",North Africa & the Middle East,Asia,31.0,39.0,69.0,40.0,33.0,43.0,6.0,8.0,9.0,5.0,5.0,5.0,7.0,5.0,10.0
+Morocco,North Africa & the Middle East,Africa,49.0,58.0,53.0,61.0,64.0,71.0,64.0,52.0,88.0,61.0,109.0,97.0,106.0,89.0,95.0
+"North Africa, nfd",North Africa & the Middle East,Africa,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,
+Oman,North Africa & the Middle East,Asia,15.0,15.0,27.0,38.0,34.0,51.0,59.0,38.0,39.0,41.0,55.0,78.0,101.0,82.0,96.0
+Qatar,North Africa & the Middle East,Asia,8.0,14.0,11.0,21.0,33.0,32.0,39.0,38.0,25.0,53.0,57.0,90.0,122.0,148.0,150.0
+Saudi Arabia,North Africa & the Middle East,Asia,73.0,64.0,115.0,97.0,110.0,146.0,262.0,265.0,242.0,269.0,245.0,365.0,490.0,514.0,586.0
+Sudan,North Africa & the Middle East,Africa,2784.0,4604.0,5661.0,3798.0,2523.0,1030.0,949.0,724.0,685.0,511.0,461.0,377.0,352.0,293.0,285.0
+Syria,North Africa & the Middle East,Asia,249.0,242.0,261.0,263.0,271.0,254.0,327.0,224.0,293.0,321.0,266.0,977.0,2523.0,2095.0,8229.0
+Tunisia,North Africa & the Middle East,Africa,27.0,7.0,5.0,13.0,12.0,13.0,8.0,17.0,15.0,24.0,29.0,32.0,25.0,28.0,25.0
+Turkey,North Africa & the Middle East,Asia,879.0,851.0,713.0,626.0,426.0,529.0,604.0,453.0,713.0,643.0,580.0,605.0,557.0,576.0,634.0
+United Arab Emirates,North Africa & the Middle East,Asia,212.0,178.0,252.0,267.0,296.0,333.0,376.0,353.0,345.0,434.0,495.0,684.0,916.0,884.0,943.0
+Western Sahara,North Africa & the Middle East,Asia,5.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,
+Yemen,North Africa & the Middle East,Asia,26.0,41.0,12.0,7.0,25.0,18.0,19.0,5.0,12.0,13.0,11.0,12.0,22.0,31.0,33.0
+China (excludes SARs and Taiwan),North East Asia,Asia,10033.0,13316.0,15997.0,18084.0,21820.0,21208.0,22983.0,24745.0,28782.0,25537.0,28042.0,27534.0,28374.0,29441.0,29604.0
+Hong Kong (SAR of China),North East Asia,Asia,1741.0,2070.0,2534.0,2162.0,2101.0,1784.0,1480.0,1337.0,1482.0,1422.0,1594.0,1482.0,1548.0,1800.0,1813.0
+Japan,North East Asia,Asia,1382.0,1633.0,1863.0,1970.0,2147.0,1969.0,1991.0,1692.0,1526.0,1657.0,1806.0,1372.0,1127.0,1181.0,1199.0
+Korea,North East Asia,Asia,2336.0,2742.0,3549.0,4021.0,4255.0,4953.0,5138.0,4354.0,4330.0,5025.0,5361.0,3789.0,3567.0,3340.0,3195.0
+Macau (SAR of China),North East Asia,Asia,38.0,59.0,59.0,54.0,53.0,46.0,47.0,40.0,63.0,48.0,55.0,57.0,65.0,56.0,70.0
+Mongolia,North East Asia,Asia,14.0,7.0,19.0,23.0,43.0,39.0,48.0,46.0,33.0,55.0,43.0,48.0,17.0,43.0,43.0
+Taiwan,North East Asia,Asia,1540.0,1344.0,1321.0,1226.0,1165.0,1173.0,922.0,952.0,931.0,961.0,1152.0,1077.0,1089.0,1219.0,1311.0
+Austria,North-West Europe,Europe,154.0,157.0,154.0,141.0,172.0,122.0,178.0,168.0,103.0,162.0,141.0,115.0,120.0,94.0,114.0
+Belgium,North-West Europe,Europe,145.0,122.0,127.0,132.0,135.0,163.0,162.0,195.0,179.0,189.0,209.0,214.0,235.0,194.0,214.0
+Denmark,North-West Europe,Europe,146.0,169.0,171.0,169.0,166.0,193.0,168.0,141.0,136.0,140.0,145.0,133.0,152.0,124.0,134.0
+Faroe Islands,North-West Europe,Europe,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,5.0,5.0
+Finland,North-West Europe,Europe,54.0,93.0,103.0,114.0,110.0,122.0,117.0,133.0,121.0,137.0,155.0,159.0,130.0,120.0,156.0
+France,North-West Europe,Europe,549.0,617.0,593.0,649.0,699.0,769.0,893.0,1030.0,1099.0,1233.0,1337.0,1513.0,1429.0,1440.0,1533.0
+Germany,North-West Europe,Europe,1242.0,1359.0,1502.0,1631.0,1762.0,1809.0,2059.0,2015.0,1727.0,1953.0,1907.0,1680.0,1557.0,1483.0,1436.0
+Greenland,North-West Europe,Europe,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0
+Iceland,North-West Europe,Europe,7.0,7.0,6.0,5.0,14.0,8.0,17.0,8.0,7.0,14.0,15.0,9.0,7.0,8.0,8.0
+Ireland,North-West Europe,Europe,1060.0,1430.0,1413.0,1546.0,1668.0,1851.0,2385.0,2744.0,3031.0,4581.0,4784.0,5541.0,5426.0,4174.0,3330.0
+Liechtenstein,North-West Europe,Europe,0.0,5.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+Luxembourg,North-West Europe,Europe,5.0,5.0,6.0,5.0,5.0,7.0,5.0,9.0,12.0,5.0,10.0,7.0,9.0,8.0,8.0
+Monaco,North-West Europe,Europe,5.0,5.0,0.0,5.0,0.0,5.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0
+Netherlands,North-West Europe,Europe,644.0,665.0,729.0,780.0,814.0,863.0,890.0,718.0,630.0,746.0,777.0,694.0,644.0,544.0,587.0
+Norway,North-West Europe,Europe,137.0,150.0,141.0,177.0,158.0,133.0,157.0,121.0,115.0,149.0,135.0,130.0,124.0,138.0,109.0
+Sweden,North-West Europe,Europe,284.0,363.0,358.0,314.0,293.0,376.0,394.0,394.0,333.0,362.0,407.0,436.0,385.0,359.0,343.0
+Switzerland,North-West Europe,Europe,324.0,323.0,292.0,348.0,268.0,341.0,313.0,288.0,255.0,329.0,261.0,242.0,242.0,213.0,218.0
+United Kingdom,North-West Europe,Europe,17563.0,23958.0,24547.0,29743.0,29789.0,30841.0,32075.0,25539.0,20802.0,26510.0,22667.0,22665.0,21210.0,18409.0,16982.0
+Bermuda,Northern America,Americas,8.0,5.0,5.0,9.0,5.0,5.0,9.0,15.0,9.0,12.0,13.0,12.0,14.0,6.0,7.0
+Canada,Northern America,Americas,1202.0,1178.0,1299.0,1478.0,1345.0,1520.0,1647.0,1692.0,1555.0,1730.0,1813.0,1829.0,1723.0,1677.0,1620.0
+French overseas territories,Northern America,Americas,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+United States of America,Northern America,Americas,2460.0,2829.0,2824.0,2918.0,2851.0,2807.0,2963.0,3095.0,2907.0,3221.0,3699.0,3653.0,3316.0,3294.0,3304.0
+Australia (includes External Territories),Oceania,Oceania,978.0,1152.0,1285.0,1321.0,1391.0,1782.0,2278.0,2289.0,3113.0,4113.0,5582.0,5292.0,4869.0,5668.0,5425.0
+Cook Islands,Oceania,Oceania,82.0,108.0,91.0,98.0,114.0,244.0,275.0,156.0,236.0,298.0,331.0,250.0,193.0,192.0,92.0
+Fiji,Oceania,Oceania,1993.0,1959.0,1970.0,2080.0,1734.0,2088.0,2158.0,1755.0,1651.0,1819.0,1656.0,1641.0,1278.0,1195.0,1035.0
+French Polynesia,Oceania,Oceania,12.0,12.0,12.0,12.0,11.0,10.0,17.0,10.0,14.0,10.0,12.0,8.0,14.0,6.0,9.0
+Guam,Oceania,Oceania,5.0,9.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,5.0,0.0,5.0,5.0,0.0
+Kiribati,Oceania,Oceania,11.0,7.0,7.0,5.0,19.0,7.0,10.0,17.0,9.0,6.0,11.0,8.0,21.0,29.0,34.0
+Marshall Islands,Oceania,Oceania,5.0,5.0,0.0,5.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0
+"Micronesia, Federated States of",Oceania,Oceania,6.0,0.0,5.0,0.0,5.0,5.0,0.0,5.0,0.0,0.0,0.0,5.0,5.0,0.0,5.0
+"Micronesia, nfd",Oceania,Oceania,0.0,0.0,5.0,0.0,0.0,0.0,,,,,,,,,
+Nauru,Oceania,Oceania,10.0,14.0,16.0,12.0,16.0,10.0,16.0,16.0,5.0,15.0,17.0,6.0,10.0,11.0,12.0
+New Caledonia,Oceania,Oceania,20.0,20.0,24.0,20.0,12.0,11.0,29.0,29.0,25.0,33.0,31.0,25.0,35.0,31.0,22.0
+New Zealand,Oceania,Oceania,12374.0,14425.0,17358.0,19046.0,23916.0,27619.0,25964.0,18668.0,26918.0,34157.0,31205.0,19959.0,16122.0,13756.0,8199.0
+Niue,Oceania,Oceania,21.0,32.0,35.0,25.0,27.0,78.0,40.0,39.0,31.0,42.0,53.0,19.0,19.0,21.0,23.0
+Northern Mariana Islands,Oceania,Oceania,0.0,5.0,0.0,0.0,0.0,5.0,0.0,5.0,5.0,0.0,0.0,5.0,5.0,5.0,5.0
+Palau,Oceania,Oceania,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,6.0,0.0,0.0,0.0,5.0,0.0,0.0
+Papua New Guinea,Oceania,Oceania,306.0,254.0,226.0,300.0,353.0,408.0,484.0,530.0,614.0,569.0,425.0,299.0,361.0,347.0,281.0
+Samoa,Oceania,Oceania,529.0,685.0,771.0,610.0,427.0,649.0,830.0,716.0,998.0,1374.0,1802.0,1301.0,1253.0,1214.0,922.0
+"Samoa, American",Oceania,Oceania,11.0,14.0,15.0,9.0,5.0,19.0,13.0,9.0,21.0,20.0,54.0,21.0,24.0,19.0,12.0
+Solomon Islands,Oceania,Oceania,49.0,46.0,66.0,30.0,56.0,42.0,59.0,48.0,52.0,46.0,67.0,38.0,28.0,40.0,37.0
+Tokelau,Oceania,Oceania,15.0,28.0,27.0,31.0,14.0,31.0,17.0,29.0,22.0,25.0,21.0,19.0,20.0,16.0,10.0
+Tonga,Oceania,Oceania,315.0,328.0,323.0,320.0,245.0,271.0,286.0,292.0,299.0,355.0,379.0,372.0,303.0,267.0,302.0
+Tuvalu,Oceania,Oceania,5.0,5.0,6.0,5.0,5.0,0.0,5.0,17.0,5.0,13.0,7.0,15.0,9.0,6.0,9.0
+Vanuatu,Oceania,Oceania,23.0,23.0,16.0,24.0,32.0,24.0,19.0,40.0,26.0,25.0,31.0,16.0,26.0,17.0,15.0
+Wallis and Futuna,Oceania,Oceania,5.0,0.0,0.0,0.0,5.0,0.0,5.0,5.0,0.0,5.0,5.0,5.0,0.0,0.0,0.0
+Antigua and Barbuda,"South America, Central America & the Caribbean",Americas,0.0,0.0,0.0,5.0,5.0,0.0,5.0,5.0,0.0,5.0,0.0,5.0,0.0,0.0,5.0
+Argentina,"South America, Central America & the Caribbean",Americas,247.0,411.0,409.0,300.0,186.0,194.0,209.0,255.0,160.0,216.0,234.0,287.0,236.0,292.0,303.0
+Aruba,"South America, Central America & the Caribbean",Americas,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0,5.0,0.0
+Bahamas,"South America, Central America & the Caribbean",Americas,5.0,6.0,5.0,5.0,5.0,6.0,5.0,5.0,7.0,5.0,5.0,14.0,5.0,5.0,5.0
+Barbados,"South America, Central America & the Caribbean",Americas,6.0,5.0,5.0,8.0,9.0,10.0,6.0,7.0,10.0,9.0,11.0,5.0,10.0,8.0,10.0
+Belize,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0
+"Bolivia, Plurinational State of","South America, Central America & the Caribbean",Americas,21.0,26.0,12.0,17.0,15.0,28.0,17.0,28.0,25.0,31.0,34.0,18.0,17.0,23.0,21.0
+Brazil,"South America, Central America & the Caribbean",Americas,377.0,375.0,479.0,585.0,709.0,841.0,940.0,1275.0,970.0,1152.0,1356.0,1580.0,1362.0,1434.0,1814.0
+British overseas territories,"South America, Central America & the Caribbean",Americas,0.0,0.0,0.0,5.0,0.0,0.0,5.0,5.0,0.0,0.0,5.0,0.0,0.0,5.0,0.0
+"Caribbean, nfd","South America, Central America & the Caribbean",Americas,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+Cayman Islands,"South America, Central America & the Caribbean",Americas,0.0,5.0,5.0,5.0,5.0,7.0,5.0,7.0,5.0,5.0,5.0,5.0,8.0,7.0,7.0
+"Central America, nfd","South America, Central America & the Caribbean",Americas,5.0,5.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+Chile,"South America, Central America & the Caribbean",Americas,228.0,211.0,219.0,206.0,194.0,206.0,266.0,256.0,262.0,251.0,255.0,273.0,252.0,253.0,306.0
+Colombia,"South America, Central America & the Caribbean",Americas,392.0,399.0,417.0,394.0,385.0,463.0,544.0,789.0,773.0,954.0,1129.0,991.0,951.0,1011.0,1056.0
+Costa Rica,"South America, Central America & the Caribbean",Americas,5.0,5.0,7.0,14.0,9.0,12.0,7.0,10.0,15.0,16.0,19.0,12.0,17.0,15.0,15.0
+Cuba,"South America, Central America & the Caribbean",Americas,26.0,25.0,21.0,34.0,32.0,40.0,41.0,37.0,20.0,63.0,57.0,25.0,24.0,24.0,37.0
+Dominica,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,5.0,5.0,5.0,0.0,0.0
+Dominican Republic,"South America, Central America & the Caribbean",Americas,6.0,5.0,6.0,8.0,5.0,11.0,11.0,5.0,12.0,11.0,16.0,12.0,8.0,8.0,14.0
+Dutch overseas territories,"South America, Central America & the Caribbean",Americas,5.0,0.0,5.0,7.0,5.0,5.0,0.0,5.0,5.0,15.0,5.0,0.0,10.0,10.0,0.0
+Ecuador,"South America, Central America & the Caribbean",Americas,45.0,55.0,52.0,58.0,39.0,48.0,52.0,48.0,41.0,43.0,42.0,59.0,39.0,46.0,49.0
+El Salvador,"South America, Central America & the Caribbean",Americas,24.0,26.0,31.0,33.0,25.0,56.0,62.0,69.0,64.0,46.0,45.0,48.0,37.0,53.0,49.0
+Falkland Islands,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,5.0,5.0,5.0,5.0,0.0,5.0,5.0,0.0,5.0,5.0,0.0,5.0
+French Guiana,"South America, Central America & the Caribbean",Americas,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,0.0,5.0,0.0,5.0
+Grenada,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,5.0,0.0,5.0,0.0,5.0,0.0,5.0,0.0,5.0,5.0,0.0,5.0
+Guadeloupe,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,0.0,5.0,0.0,5.0,5.0,5.0,5.0,0.0,5.0,5.0,5.0,0.0
+Guatemala,"South America, Central America & the Caribbean",Americas,5.0,11.0,5.0,8.0,14.0,13.0,18.0,16.0,11.0,19.0,24.0,20.0,11.0,14.0,18.0
+Guyana,"South America, Central America & the Caribbean",Americas,7.0,10.0,8.0,11.0,10.0,8.0,10.0,6.0,9.0,8.0,14.0,7.0,5.0,5.0,5.0
+Haiti,"South America, Central America & the Caribbean",Americas,5.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,8.0,6.0,5.0,7.0
+Honduras,"South America, Central America & the Caribbean",Americas,5.0,5.0,7.0,5.0,5.0,9.0,5.0,6.0,6.0,5.0,10.0,7.0,9.0,5.0,5.0
+Jamaica,"South America, Central America & the Caribbean",Americas,14.0,16.0,32.0,38.0,30.0,23.0,36.0,27.0,16.0,26.0,44.0,58.0,32.0,35.0,21.0
+Martinique,"South America, Central America & the Caribbean",Americas,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0,0.0,8.0,5.0,5.0,5.0,5.0
+Mexico,"South America, Central America & the Caribbean",Americas,90.0,89.0,112.0,189.0,197.0,302.0,302.0,305.0,269.0,350.0,315.0,287.0,301.0,288.0,307.0
+Montserrat,"South America, Central America & the Caribbean",Americas,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,5.0
+Nicaragua,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,8.0,13.0,8.0,5.0,7.0,12.0,13.0,13.0,11.0,5.0,10.0,10.0
+Panama,"South America, Central America & the Caribbean",Americas,5.0,5.0,7.0,12.0,6.0,10.0,9.0,9.0,11.0,8.0,9.0,7.0,11.0,5.0,6.0
+Paraguay,"South America, Central America & the Caribbean",Americas,5.0,6.0,6.0,18.0,5.0,8.0,10.0,13.0,5.0,8.0,11.0,5.0,8.0,9.0,6.0
+Peru,"South America, Central America & the Caribbean",Americas,213.0,209.0,241.0,333.0,370.0,318.0,378.0,369.0,350.0,369.0,413.0,302.0,286.0,239.0,278.0
+Puerto Rico,"South America, Central America & the Caribbean",Americas,5.0,5.0,5.0,5.0,7.0,5.0,5.0,8.0,6.0,5.0,7.0,7.0,5.0,5.0,9.0
+"South America, nfd","South America, Central America & the Caribbean",Americas,0.0,0.0,0.0,0.0,5.0,5.0,,,,,,,,,
+St Kitts and Nevis,"South America, Central America & the Caribbean",Americas,5.0,0.0,0.0,5.0,5.0,5.0,5.0,0.0,5.0,0.0,5.0,0.0,5.0,5.0,0.0
+St Lucia,"South America, Central America & the Caribbean",Americas,0.0,0.0,5.0,5.0,5.0,5.0,0.0,5.0,5.0,9.0,6.0,0.0,5.0,5.0,0.0
+St Vincent and the Grenadines,"South America, Central America & the Caribbean",Americas,5.0,0.0,0.0,5.0,0.0,0.0,5.0,5.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0
+Suriname,"South America, Central America & the Caribbean",Americas,7.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,7.0,5.0,12.0,5.0,5.0,6.0,5.0
+Trinidad and Tobago,"South America, Central America & the Caribbean",Americas,11.0,32.0,29.0,19.0,30.0,17.0,31.0,35.0,21.0,46.0,33.0,47.0,50.0,40.0,45.0
+Uruguay,"South America, Central America & the Caribbean",Americas,68.0,75.0,76.0,72.0,44.0,53.0,36.0,34.0,32.0,51.0,28.0,38.0,28.0,21.0,26.0
+"Venezuela, Bolivarian Republic of","South America, Central America & the Caribbean",Americas,78.0,89.0,141.0,220.0,176.0,285.0,292.0,400.0,295.0,342.0,327.0,250.0,292.0,286.0,314.0
+"Virgin Islands, British","South America, Central America & the Caribbean",Americas,0.0,5.0,5.0,0.0,0.0,5.0,0.0,5.0,5.0,5.0,0.0,5.0,5.0,0.0,0.0
+"Virgin Islands, United States","South America, Central America & the Caribbean",Americas,5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0.0
+Brunei Darussalam,South East Asia,Asia,79.0,91.0,94.0,87.0,82.0,73.0,69.0,64.0,48.0,63.0,69.0,62.0,48.0,70.0,52.0
+Cambodia,South East Asia,Asia,672.0,636.0,699.0,671.0,773.0,752.0,828.0,946.0,866.0,837.0,833.0,888.0,820.0,908.0,725.0
+Indonesia,South East Asia,Asia,4781.0,4393.0,3932.0,3318.0,3166.0,3115.0,2858.0,2418.0,2880.0,2521.0,2520.0,2395.0,2095.0,2074.0,1892.0
+Laos,South East Asia,Asia,64.0,62.0,132.0,78.0,122.0,101.0,117.0,79.0,281.0,160.0,89.0,102.0,73.0,97.0,63.0
+Malaysia,South East Asia,Asia,3907.0,5101.0,4796.0,4817.0,4837.0,5139.0,5427.0,5032.0,5017.0,5619.0,5906.0,4666.0,4290.0,4420.0,4398.0
+"Myanmar, The Republic of the Union of",South East Asia,Asia,304.0,275.0,519.0,812.0,1766.0,2243.0,2322.0,1903.0,1298.0,2098.0,2034.0,1781.0,1891.0,1750.0,1472.0
+Philippines,South East Asia,Asia,3820.0,4705.0,5007.0,5611.0,6368.0,7382.0,9166.0,10560.0,11030.0,13138.0,11403.0,10799.0,12156.0,12171.0,12180.0
+Singapore,South East Asia,Asia,2501.0,3114.0,4087.0,3664.0,2512.0,2583.0,2198.0,1917.0,1583.0,1878.0,2054.0,1999.0,2039.0,1904.0,1758.0
+"South-East Asia, nfd",South East Asia,Asia,0.0,0.0,0.0,5.0,0.0,0.0,,,,,,,,,
+Thailand,South East Asia,Asia,1701.0,1707.0,1865.0,2237.0,2965.0,3384.0,3532.0,3231.0,2923.0,3032.0,3405.0,3317.0,3132.0,3286.0,3344.0
+Timor-Leste,South East Asia,Asia,49.0,42.0,35.0,43.0,54.0,52.0,38.0,37.0,31.0,22.0,23.0,40.0,19.0,24.0,25.0
+Vietnam,South East Asia,Asia,3159.0,2755.0,2519.0,3120.0,3547.0,3226.0,3439.0,4009.0,4950.0,4956.0,5814.0,5371.0,5157.0,5425.0,5579.0
+Bangladesh,Southern Asia,Asia,804.0,1133.0,1432.0,1720.0,2303.0,2713.0,2159.0,2117.0,2246.0,2444.0,2733.0,2637.0,3280.0,2926.0,2457.0
+Bhutan,Southern Asia,Asia,5.0,0.0,0.0,7.0,5.0,28.0,579.0,561.0,749.0,545.0,481.0,502.0,188.0,297.0,446.0
+India,Southern Asia,Asia,8284.0,11359.0,12878.0,15298.0,19823.0,22688.0,25279.0,23417.0,21971.0,27880.0,37048.0,38381.0,33952.0,36888.0,38264.0
+Maldives,Southern Asia,Asia,5.0,12.0,23.0,17.0,19.0,30.0,24.0,34.0,15.0,24.0,43.0,29.0,33.0,38.0,27.0
+Nepal,Southern Asia,Asia,405.0,495.0,566.0,564.0,707.0,851.0,1145.0,1460.0,2369.0,2739.0,4134.0,4462.0,4034.0,4867.0,4318.0
+Pakistan,Southern Asia,Asia,1067.0,1468.0,1723.0,1581.0,1848.0,1868.0,1985.0,1871.0,1917.0,3811.0,3673.0,5798.0,7479.0,6529.0,6315.0
+Sri Lanka,Southern Asia,Asia,2340.0,2195.0,3070.0,3319.0,3771.0,4824.0,4853.0,5301.0,4561.0,5747.0,5317.0,4498.0,3848.0,3783.0,3153.0
+Albania,Southern and Eastern Europe,Europe,408.0,132.0,128.0,141.0,103.0,107.0,146.0,141.0,102.0,128.0,128.0,113.0,103.0,104.0,111.0
+Andorra,Southern and Eastern Europe,Europe,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,5.0,5.0
+Belarus,Southern and Eastern Europe,Europe,14.0,30.0,49.0,49.0,40.0,20.0,67.0,51.0,66.0,53.0,84.0,104.0,76.0,70.0,71.0
+Bosnia and Herzegovina,Southern and Eastern Europe,Europe,169.0,131.0,108.0,120.0,120.0,125.0,147.0,182.0,145.0,148.0,96.0,159.0,172.0,116.0,139.0
+Bulgaria,Southern and Eastern Europe,Europe,115.0,128.0,140.0,98.0,110.0,124.0,112.0,110.0,78.0,105.0,85.0,133.0,111.0,98.0,94.0
+Croatia,Southern and Eastern Europe,Europe,333.0,140.0,70.0,97.0,108.0,101.0,179.0,144.0,104.0,149.0,131.0,181.0,167.0,134.0,132.0
+Cyprus,Southern and Eastern Europe,Europe,44.0,72.0,48.0,59.0,52.0,44.0,48.0,49.0,43.0,49.0,51.0,77.0,55.0,46.0,51.0
+Czech Republic,Southern and Eastern Europe,Europe,23.0,19.0,36.0,66.0,70.0,65.0,135.0,130.0,103.0,137.0,157.0,154.0,167.0,169.0,148.0
+"Eastern Europe, nfd",Southern and Eastern Europe,Europe,0.0,5.0,0.0,0.0,0.0,0.0,,,,,,,,,
+Estonia,Southern and Eastern Europe,Europe,22.0,18.0,17.0,19.0,27.0,29.0,117.0,137.0,151.0,135.0,212.0,195.0,209.0,210.0,210.0
+"Former Czechoslovakia, nfd",Southern and Eastern Europe,Europe,231.0,285.0,296.0,270.0,269.0,223.0,129.0,105.0,149.0,121.0,136.0,150.0,138.0,121.0,138.0
+Former Serbia and Montenegro,Southern and Eastern Europe,Europe,1775.0,1078.0,724.0,567.0,601.0,403.0,73.0,77.0,55.0,44.0,45.0,34.0,43.0,29.0,5.0
+"Former USSR, nfd",Southern and Eastern Europe,Europe,984.0,876.0,804.0,859.0,660.0,720.0,163.0,156.0,165.0,211.0,262.0,338.0,358.0,293.0,276.0
+Former Yugoslav Republic of Macedonia,Southern and Eastern Europe,Europe,445.0,420.0,332.0,370.0,335.0,380.0,393.0,369.0,320.0,282.0,341.0,339.0,250.0,301.0,286.0
+"Former Yugoslavia, nfd",Southern and Eastern Europe,Europe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+Gibraltar,Southern and Eastern Europe,Europe,5.0,6.0,6.0,6.0,9.0,12.0,5.0,8.0,5.0,7.0,6.0,8.0,5.0,5.0,5.0
+Greece,Southern and Eastern Europe,Europe,160.0,155.0,135.0,161.0,135.0,140.0,168.0,153.0,190.0,431.0,729.0,783.0,565.0,463.0,438.0
+Hungary,Southern and Eastern Europe,Europe,134.0,147.0,191.0,156.0,220.0,225.0,259.0,283.0,267.0,330.0,387.0,346.0,355.0,297.0,291.0
+Italy,Southern and Eastern Europe,Europe,346.0,419.0,442.0,437.0,482.0,491.0,580.0,601.0,653.0,790.0,931.0,1009.0,1220.0,1478.0,1701.0
+Kosovo,Southern and Eastern Europe,Europe,,,,,,,9.0,20.0,10.0,23.0,10.0,9.0,14.0,16.0,36.0
+Latvia,Southern and Eastern Europe,Europe,39.0,41.0,44.0,42.0,30.0,43.0,101.0,141.0,117.0,123.0,108.0,106.0,90.0,97.0,77.0
+Lithuania,Southern and Eastern Europe,Europe,29.0,36.0,52.0,31.0,31.0,38.0,77.0,117.0,90.0,141.0,123.0,117.0,119.0,112.0,105.0
+Malta,Southern and Eastern Europe,Europe,76.0,73.0,106.0,61.0,131.0,123.0,98.0,63.0,79.0,78.0,82.0,45.0,56.0,38.0,25.0
+Moldova,Southern and Eastern Europe,Europe,10.0,41.0,16.0,28.0,19.0,30.0,28.0,31.0,43.0,54.0,47.0,36.0,44.0,48.0,57.0
+Montenegro,Southern and Eastern Europe,Europe,0.0,0.0,0.0,0.0,5.0,13.0,26.0,9.0,12.0,16.0,16.0,22.0,25.0,16.0,11.0
+Poland,Southern and Eastern Europe,Europe,380.0,466.0,547.0,605.0,544.0,600.0,590.0,591.0,553.0,657.0,641.0,638.0,642.0,629.0,618.0
+Portugal,Southern and Eastern Europe,Europe,86.0,85.0,112.0,98.0,90.0,112.0,145.0,144.0,112.0,193.0,212.0,257.0,255.0,233.0,226.0
+Romania,Southern and Eastern Europe,Europe,361.0,326.0,320.0,356.0,371.0,354.0,360.0,378.0,321.0,387.0,391.0,388.0,355.0,303.0,245.0
+Russian Federation,Southern and Eastern Europe,Europe,173.0,306.0,459.0,523.0,387.0,555.0,1063.0,909.0,910.0,898.0,1096.0,891.0,890.0,690.0,771.0
+San Marino,Southern and Eastern Europe,Europe,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0,5.0,0.0,5.0
+Serbia,Southern and Eastern Europe,Europe,0.0,0.0,0.0,0.0,37.0,177.0,245.0,266.0,218.0,230.0,257.0,279.0,226.0,227.0,218.0
+Slovakia,Southern and Eastern Europe,Europe,23.0,36.0,29.0,48.0,55.0,61.0,87.0,98.0,73.0,84.0,99.0,86.0,112.0,105.0,104.0
+Slovenia,Southern and Eastern Europe,Europe,8.0,12.0,7.0,27.0,39.0,72.0,55.0,51.0,57.0,81.0,71.0,90.0,71.0,61.0,57.0
+Spain,Southern and Eastern Europe,Europe,140.0,131.0,126.0,135.0,181.0,156.0,208.0,188.0,251.0,292.0,374.0,436.0,526.0,439.0,448.0
+Ukraine,Southern and Eastern Europe,Europe,136.0,232.0,217.0,227.0,241.0,224.0,377.0,377.0,366.0,431.0,472.0,363.0,388.0,447.0,447.0
+Angola,Sub-Saharan Africa,Africa,5.0,5.0,5.0,8.0,17.0,10.0,13.0,13.0,10.0,7.0,10.0,11.0,11.0,6.0,8.0
+Benin,Sub-Saharan Africa,Africa,0.0,0.0,5.0,5.0,11.0,24.0,5.0,5.0,7.0,10.0,5.0,5.0,5.0,0.0,5.0
+Botswana,Sub-Saharan Africa,Africa,31.0,35.0,42.0,38.0,58.0,54.0,71.0,86.0,69.0,87.0,90.0,93.0,68.0,62.0,57.0
+Burkina Faso,Sub-Saharan Africa,Africa,5.0,5.0,0.0,0.0,5.0,5.0,5.0,10.0,5.0,5.0,5.0,0.0,5.0,5.0,5.0
+Burundi,Sub-Saharan Africa,Africa,9.0,59.0,262.0,443.0,442.0,235.0,195.0,137.0,68.0,80.0,66.0,98.0,106.0,97.0,81.0
+Cameroon,Sub-Saharan Africa,Africa,16.0,7.0,6.0,14.0,31.0,36.0,15.0,32.0,43.0,20.0,13.0,18.0,25.0,21.0,13.0
+Cape Verde,Sub-Saharan Africa,Africa,0.0,0.0,5.0,5.0,5.0,5.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0
+Central African Republic,Sub-Saharan Africa,Africa,0.0,0.0,5.0,0.0,5.0,16.0,0.0,5.0,5.0,5.0,0.0,5.0,5.0,0.0,5.0
+"Central and West Africa, nfd",Sub-Saharan Africa,Africa,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,
+Chad,Sub-Saharan Africa,Africa,0.0,0.0,5.0,5.0,5.0,5.0,0.0,5.0,6.0,8.0,0.0,0.0,5.0,0.0,0.0
+Comoros,Sub-Saharan Africa,Africa,5.0,0.0,0.0,0.0,5.0,0.0,0.0,5.0,5.0,0.0,5.0,5.0,5.0,0.0,0.0
+"Congo, Democratic Republic of",Sub-Saharan Africa,Africa,16.0,34.0,25.0,159.0,576.0,485.0,282.0,573.0,423.0,461.0,276.0,522.0,408.0,603.0,322.0
+"Congo, Republic of",Sub-Saharan Africa,Africa,25.0,140.0,285.0,101.0,108.0,39.0,80.0,86.0,76.0,161.0,29.0,15.0,19.0,12.0,37.0
+Côte d'Ivoire,Sub-Saharan Africa,Africa,8.0,5.0,111.0,56.0,85.0,79.0,78.0,90.0,31.0,43.0,19.0,34.0,26.0,8.0,30.0
+Djibouti,Sub-Saharan Africa,Africa,7.0,5.0,9.0,5.0,6.0,5.0,5.0,7.0,15.0,16.0,6.0,8.0,10.0,11.0,5.0
+Equatorial Guinea,Sub-Saharan Africa,Africa,,,,,,,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,5.0
+Eritrea,Sub-Saharan Africa,Africa,111.0,158.0,133.0,179.0,150.0,147.0,171.0,222.0,155.0,293.0,133.0,270.0,402.0,409.0,331.0
+Ethiopia,Sub-Saharan Africa,Africa,592.0,744.0,614.0,457.0,594.0,509.0,734.0,756.0,678.0,788.0,439.0,720.0,772.0,667.0,710.0
+Gabon,Sub-Saharan Africa,Africa,5.0,5.0,5.0,5.0,0.0,6.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Gambia,Sub-Saharan Africa,Africa,5.0,0.0,5.0,5.0,6.0,5.0,0.0,5.0,5.0,5.0,5.0,5.0,13.0,5.0,5.0
+Ghana,Sub-Saharan Africa,Africa,123.0,166.0,165.0,238.0,273.0,231.0,205.0,285.0,258.0,255.0,291.0,273.0,234.0,251.0,243.0
+Guinea,Sub-Saharan Africa,Africa,25.0,17.0,154.0,103.0,149.0,88.0,60.0,165.0,60.0,68.0,33.0,48.0,38.0,28.0,87.0
+Guinea-Bissau,Sub-Saharan Africa,Africa,5.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,5.0,5.0,0.0,5.0,5.0,0.0,0.0
+Kenya,Sub-Saharan Africa,Africa,693.0,798.0,1047.0,858.0,902.0,653.0,833.0,648.0,656.0,682.0,656.0,549.0,1008.0,827.0,797.0
+Lesotho,Sub-Saharan Africa,Africa,5.0,5.0,9.0,5.0,5.0,5.0,5.0,11.0,6.0,5.0,5.0,5.0,0.0,5.0,5.0
+Liberia,Sub-Saharan Africa,Africa,151.0,118.0,851.0,567.0,545.0,257.0,291.0,313.0,86.0,135.0,85.0,118.0,76.0,76.0,112.0
+Madagascar,Sub-Saharan Africa,Africa,11.0,8.0,5.0,5.0,8.0,9.0,5.0,11.0,12.0,5.0,8.0,9.0,5.0,12.0,6.0
+Malawi,Sub-Saharan Africa,Africa,26.0,40.0,49.0,24.0,57.0,58.0,48.0,36.0,64.0,89.0,51.0,66.0,29.0,54.0,36.0
+Mali,Sub-Saharan Africa,Africa,5.0,5.0,5.0,5.0,5.0,5.0,0.0,5.0,5.0,5.0,8.0,5.0,5.0,0.0,5.0
+Mauritania,Sub-Saharan Africa,Africa,5.0,0.0,5.0,5.0,5.0,43.0,0.0,5.0,5.0,5.0,0.0,5.0,5.0,0.0,5.0
+Mauritius,Sub-Saharan Africa,Africa,254.0,371.0,434.0,487.0,583.0,696.0,801.0,584.0,774.0,879.0,1117.0,952.0,747.0,599.0,469.0
+Mozambique,Sub-Saharan Africa,Africa,26.0,26.0,24.0,15.0,18.0,25.0,37.0,48.0,39.0,31.0,28.0,50.0,14.0,19.0,16.0
+Namibia,Sub-Saharan Africa,Africa,65.0,46.0,62.0,51.0,54.0,53.0,86.0,105.0,74.0,65.0,50.0,43.0,48.0,48.0,46.0
+Niger,Sub-Saharan Africa,Africa,5.0,5.0,7.0,9.0,8.0,5.0,8.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Nigeria,Sub-Saharan Africa,Africa,149.0,176.0,185.0,201.0,267.0,261.0,370.0,440.0,347.0,396.0,448.0,489.0,470.0,620.0,695.0
+Rwanda,Sub-Saharan Africa,Africa,18.0,47.0,48.0,68.0,95.0,55.0,68.0,133.0,80.0,63.0,39.0,36.0,24.0,55.0,40.0
+Réunion,Sub-Saharan Africa,Africa,5.0,5.0,5.0,5.0,5.0,6.0,7.0,5.0,5.0,6.0,10.0,10.0,12.0,9.0,5.0
+Sao Tomé and Principe,Sub-Saharan Africa,Africa,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0
+Senegal,Sub-Saharan Africa,Africa,8.0,6.0,7.0,14.0,8.0,55.0,8.0,11.0,14.0,9.0,12.0,11.0,5.0,15.0,9.0
+Seychelles,Sub-Saharan Africa,Africa,23.0,44.0,31.0,37.0,48.0,38.0,47.0,62.0,38.0,55.0,32.0,48.0,29.0,29.0,17.0
+Sierra Leone,Sub-Saharan Africa,Africa,176.0,140.0,642.0,542.0,541.0,279.0,227.0,427.0,142.0,143.0,100.0,115.0,51.0,42.0,103.0
+Somalia,Sub-Saharan Africa,Africa,210.0,224.0,257.0,270.0,304.0,163.0,391.0,563.0,385.0,396.0,337.0,498.0,454.0,552.0,218.0
+South Africa,Sub-Saharan Africa,Africa,6306.0,7578.0,6313.0,5512.0,5970.0,7762.0,11947.0,11861.0,9079.0,9331.0,7040.0,5839.0,5530.0,4592.0,5397.0
+South Sudan,Sub-Saharan Africa,Africa,,,,,,,0.0,0.0,0.0,21.0,93.0,134.0,305.0,209.0,392.0
+"Southern and East Africa, nfd",Sub-Saharan Africa,Africa,5.0,5.0,0.0,0.0,0.0,5.0,,,,,,,,,
+St Helena,Sub-Saharan Africa,Africa,5.0,0.0,5.0,5.0,0.0,0.0,0.0,5.0,5.0,0.0,5.0,5.0,5.0,0.0,5.0
+Swaziland,Sub-Saharan Africa,Africa,8.0,15.0,5.0,11.0,14.0,9.0,19.0,10.0,11.0,8.0,12.0,5.0,5.0,5.0,7.0
+Tanzania,Sub-Saharan Africa,Africa,48.0,76.0,197.0,431.0,366.0,311.0,208.0,150.0,167.0,101.0,97.0,94.0,102.0,96.0,124.0
+Togo,Sub-Saharan Africa,Africa,5.0,5.0,9.0,5.0,50.0,100.0,46.0,61.0,42.0,12.0,5.0,11.0,5.0,5.0,5.0
+Uganda,Sub-Saharan Africa,Africa,84.0,113.0,206.0,177.0,297.0,171.0,143.0,194.0,173.0,80.0,98.0,138.0,133.0,127.0,109.0
+Zambia,Sub-Saharan Africa,Africa,110.0,181.0,151.0,167.0,214.0,227.0,210.0,258.0,325.0,266.0,310.0,221.0,239.0,175.0,159.0
+Zimbabwe,Sub-Saharan Africa,Africa,1508.0,2099.0,1702.0,1672.0,1664.0,1900.0,2241.0,2215.0,1880.0,1749.0,1553.0,1343.0,1171.0,1053.0,1056.0
